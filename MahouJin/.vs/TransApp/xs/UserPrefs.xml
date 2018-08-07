@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3FFADE56-D260-F9EF-DB7E-64E17ED495A6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemies.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemies.cs" Line="10" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ray/Desktop/TransApp/TransApp/Assets/Scripts/Enemies.cs" relfile="Assets/Scripts/Enemies.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
